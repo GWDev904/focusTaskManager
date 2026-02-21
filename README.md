@@ -14,7 +14,7 @@
 
 <br />
 
-**[🚀 Live Demo](https://vercel.com/gwdev904s-projects/focus-task-manager)** &nbsp;&nbsp;·&nbsp;&nbsp; **[View Code](https://github.com/GWDev904/focus-task-manager)**
+**[🚀 Live Demo](https://focus-task-manager.vercel.app/)** &nbsp;&nbsp;·&nbsp;&nbsp; **[View Code](https://github.com/GWDev904/focus-task-manager)**
 
 <br />
 
