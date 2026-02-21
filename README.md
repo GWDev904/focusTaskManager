@@ -18,7 +18,7 @@
 
 <br />
 
-![Focus Task Manager Preview](https://placehold.co/800x450/0f0f13/7c6af5?text=Focus+—+Task+Manager&font=raleway)
+![Focus Task Manager Preview](preview.png)
 
 <br />
 
