@@ -112,7 +112,7 @@ focus-task-manager/
 
 | Project | Description | Demo |
 |---|---|---|
-| **✦ Focus** *(this repo)* | Task manager — hooks, localStorage | [Live](#) |
+| **✦ Focus** *(this repo)* | Task manager — hooks, localStorage | [Live](https://focus-task-manager.vercel.app/) |
 | **◈ Ledger** | Finance dashboard — useMemo, data viz | [Live](#) |
 | **⬡ Nexus** | Community feed — Context API, useReducer | [Live](#) |
 
